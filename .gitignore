@@ -1,0 +1,15 @@
+# Video and audio stay in Google Drive, never in GitHub
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mp3
+*.wav
+*.m4a
+*.aac
+# Working files
+*.srt.bak
+_work/
+__pycache__/
